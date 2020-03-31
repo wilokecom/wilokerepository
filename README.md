@@ -13,7 +13,7 @@ WilokeRepository helps you can get config file or item in config file like a pro
 
 <h2>Installation</h2>
 
-composer install wiloke/repository
+composer require wiloke/repository
 
 
 <h2>Example</h2>
